@@ -53,10 +53,10 @@ Correlation Heatmaps: Understanding the relationship between employment metrics.
 ## Key Visualizations
 
 ### 1. Unemployment Trend Analysis
-![Unemployment Trend](Visuals/unemployment_trend.png)
+![Unemployment Trend](unemployment_trend.png)
 
 *This graph shows the sharp increase in unemployment rates coinciding with the nationwide lockdown in March 2020.*
 
 ### 2. Regional Impact (Top 10 States)
-![Top 10 States](Visuals/lockdown_top10_regions.png)
+![Top 10 States](lockdown_top10_regions.png)
 *A look at the states that faced the highest economic disruption during the lockdown period.*
